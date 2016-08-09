@@ -1,2 +1,2 @@
 # go-ipip
-IPIP(http://ipip.net)数据库解析库
+[IP数据库](http://ipip.net) Golang语言解析库
