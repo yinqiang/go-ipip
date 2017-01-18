@@ -1,5 +1,6 @@
 # go-ipip
 [![Build Status](https://travis-ci.org/yinqiang/go-ipip.svg?branch=master)](https://travis-ci.org/yinqiang/go-ipip)
+
 [IP数据库](http://ipip.net) Golang语言解析库
 
 ## Usage
