@@ -1,7 +1,6 @@
 package ipip
 
 import (
-	"fmt"
 	"testing"
 )
 
